@@ -24,3 +24,7 @@ Analyzing 100k worth of sales data across the world
 - all relationships were kept in mind
 - all kpis were visiualized
 
+## share
+
+## Actoin
+
